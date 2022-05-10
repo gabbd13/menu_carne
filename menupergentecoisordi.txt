@@ -1,16 +1,20 @@
 Nni Franco U' Vastiddaru
 
-Menu carne
+Menu carne:
 
 bevande
 birra
 vino rosso
 
-feature/primipiatti
+Antipasti:
+- Musso
+- Frittola
+- Pani ca meusa
+- Panelle
+
 Primi piatti:
 - cainni
 - cainni i crastu
 - mussu e caiccagnolu
-=======
 
 
